@@ -1,0 +1,35 @@
+{
+  "name": "quiz-api",
+  "version": "1.0.0",
+  "description": "Quiz Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dras51/Test-Repo.git"
+  },
+  "author": "David Olabode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dras51/Test-Repo/issues"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4"
+  },
+  "homepage": "https://github.com/dras51/Test-Repo#readme"
+}
